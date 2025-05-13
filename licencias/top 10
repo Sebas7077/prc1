@@ -7,17 +7,20 @@
 |Muy popular en proyectos web y bibliotecas.|
 GNU General Public License (GPL)
 
-2.Licencia copyleft. Obliga a que cualquier derivado también se publique bajo GPL.
+|2.Licencia copyleft.|
+|--------------------|
+|Obliga a que cualquier derivado también se publique bajo GPL.|
 
-Protege la libertad de los usuarios, pero es menos flexible para uso comercial.
+|Protege la libertad de los usuarios, pero es menos flexible para uso comercial.|
 
-3.Apache License 2.0
+|3.Apache License 2.0|
+|--------------------|
 
-Permite uso comercial y modificaciones.
+|Permite uso comercial y modificaciones.|
 
-Requiere mantener avisos de licencia y añade cláusulas de patente.
+|Requiere mantener avisos de licencia y añade cláusulas de patente.|
 
-Muy usada por empresas (por ejemplo, proyectos de la Apache Foundation).
+|Muy usada por empresas (por ejemplo, proyectos de la Apache Foundation).|
 
 4.BSD License (Berkeley Software Distribution)
 

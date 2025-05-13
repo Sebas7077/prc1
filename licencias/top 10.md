@@ -51,6 +51,8 @@
 |No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).|
 |Incluye actualizaciones y soporte mientras dure el contrato.|
 
-*1.MIT License
-*2.Licencia copyleft.
-*3.Apache License 2.0
+1. MIT License
+2. Licencia copyleft.
+3. Apache License 2.0
+4. 4.BSD License
+5. Mozilla Public License 

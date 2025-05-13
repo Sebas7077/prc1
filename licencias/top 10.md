@@ -7,46 +7,36 @@
 |2.Licencia copyleft.|
 |--------------------|
 |Obliga a que cualquier derivado también se publique bajo GPL.|
-
 |Protege la libertad de los usuarios, pero es menos flexible para uso comercial.|
 
 |3.Apache License 2.0|
 |--------------------|
-
 |Permite uso comercial y modificaciones.|
-
 |Requiere mantener avisos de licencia y añade cláusulas de patente.|
-
 |Muy usada por empresas (por ejemplo, proyectos de la Apache Foundation).|
 
-4.BSD License (Berkeley Software Distribution)
+|4.BSD License (Berkeley Software Distribution)|
+|----------------------------------------------|
+|Muy similar a la MIT, pero puede tener variantes (2, 3 o 4 cláusulas).|
+|Muy permisiva, usada en sistemas como FreeBSD.|
 
-Muy similar a la MIT, pero puede tener variantes (2, 3 o 4 cláusulas).
+|5.Mozilla Public License (MPL)|
+|------------------------------|
+|Licencia de tipo copyleft moderado.|
+|Permite mezclar código MPL con código propietario, siempre que los archivos MPL permanezcan abiertos.|
 
-Muy permisiva, usada en sistemas como FreeBSD.
+|6.EULA (End User License Agreement)|
+|-----------------------------------|
+|Licencia estándar de software comercial (Windows, Photoshop, etc.).|
+|Restringe la copia, redistribución y modificación.|
+|Es de uso no transferible y define claramente los términos de uso.|
 
-5.Mozilla Public License (MPL)
+|7.Licencia OEM (Original Equipment Manufacturer)|
+|------------------------------------------------|
+|Vinculada a un hardware específico. Ejemplo: Windows preinstalado en un portátil.|
+|No se puede transferir legalmente a otro equipo.|
 
-Licencia de tipo copyleft moderado.
-
-Permite mezclar código MPL con código propietario, siempre que los archivos MPL permanezcan abiertos.
-
-🔒 Licencias de Software Propietario (Comercial)
-6.EULA (End User License Agreement)
-
-Licencia estándar de software comercial (Windows, Photoshop, etc.).
-
-Restringe la copia, redistribución y modificación.
-
-Es de uso no transferible y define claramente los términos de uso.
-
-7.Licencia OEM (Original Equipment Manufacturer)
-
-Vinculada a un hardware específico. Ejemplo: Windows preinstalado en un portátil.
-
-No se puede transferir legalmente a otro equipo.
-
-8.Licencia Trial (de prueba)
+|8.Licencia Trial (de prueba)|
 
 Permite usar el software durante un período limitado.
 

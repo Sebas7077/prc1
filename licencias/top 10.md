@@ -1,4 +1,4 @@
-*|1.MIT License|
+|*1.MIT License|
 |-------------|
 |Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
 |Solo exige incluir el aviso de copyright y la licencia original.|

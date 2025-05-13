@@ -1,4 +1,4 @@
-*|1.MIT License|
+|1.MIT License|
 |-------------|
 |*Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
 |*Solo exige incluir el aviso de copyright y la licencia original.|
@@ -51,3 +51,6 @@
 |No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).|
 |Incluye actualizaciones y soporte mientras dure el contrato.|
 
+*1.MIT License
+*2.Licencia copyleft.
+*3.Apache License 2.0

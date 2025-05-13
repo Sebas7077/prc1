@@ -47,6 +47,7 @@
 |Común en apps móviles y servicios online.|
 
 |10.Licencia SaaS (Software as a Service)|
+|----------------------------------------|
 |No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).|
 |Incluye actualizaciones y soporte mientras dure el contrato.|
 

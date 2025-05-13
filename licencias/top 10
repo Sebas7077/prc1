@@ -1,1 +1,74 @@
+MIT License
 
+Muy permisiva.
+
+Permite uso, modificación, distribución e integración en software propietario.
+
+Requiere mantener el aviso de derechos de autor y la licencia original.
+
+GNU General Public License (GPL) v3
+
+Copyleft fuerte.
+
+Obliga a que las modificaciones y software derivado también estén bajo GPL.
+
+Muy usada en proyectos como Linux.
+
+Apache License 2.0
+
+Permisiva.
+
+Permite uso comercial, modificación y distribución.
+
+Incluye una cláusula de protección frente a patentes.
+
+BSD 3-Clause License
+
+Permisiva, similar a MIT.
+
+Permite integración con software propietario.
+
+Requiere reconocimiento al autor original.
+
+Mozilla Public License (MPL) 2.0
+
+Copyleft débil.
+
+Solo obliga a liberar el código modificado de los archivos originales bajo MPL.
+
+Permite combinar con software propietario.
+
+🔒 Licencias de software propietario / comercial
+Licencia EULA (End-User License Agreement)
+
+Contrato entre el usuario y el desarrollador.
+
+Es restrictiva: prohíbe copia, modificación o redistribución.
+
+Usada en software comercial como Microsoft Office, Windows, etc.
+
+Licencia Shareware
+
+Permite uso gratuito por tiempo limitado o con funcionalidades reducidas.
+
+Requiere pago para uso completo o continuo.
+
+Licencia Freemium
+
+Parte del software es gratuita, pero funciones avanzadas requieren pago.
+
+Usada en apps móviles y servicios en línea.
+
+Licencia Trial o Demo
+
+Uso gratuito por un período de prueba.
+
+Luego requiere pago o activación.
+
+Licencia SaaS (Software as a Service)
+
+Licencia basada en suscripción (mensual o anual).
+
+El software se usa en la nube, sin instalación local.
+
+Ejemplo: Google Workspace, Adobe Creative Cloud.

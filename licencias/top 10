@@ -1,74 +1,66 @@
-MIT License
+|1.MIT License|
+|-------------|
+|Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
 
-Muy permisiva.
+|Solo exige incluir el aviso de copyright y la licencia original.|
 
-Permite uso, modificación, distribución e integración en software propietario.
+|Muy popular en proyectos web y bibliotecas.|
+GNU General Public License (GPL)
 
-Requiere mantener el aviso de derechos de autor y la licencia original.
+2.Licencia copyleft. Obliga a que cualquier derivado también se publique bajo GPL.
 
-GNU General Public License (GPL) v3
+Protege la libertad de los usuarios, pero es menos flexible para uso comercial.
 
-Copyleft fuerte.
+3.Apache License 2.0
 
-Obliga a que las modificaciones y software derivado también estén bajo GPL.
+Permite uso comercial y modificaciones.
 
-Muy usada en proyectos como Linux.
+Requiere mantener avisos de licencia y añade cláusulas de patente.
 
-Apache License 2.0
+Muy usada por empresas (por ejemplo, proyectos de la Apache Foundation).
 
-Permisiva.
+4.BSD License (Berkeley Software Distribution)
 
-Permite uso comercial, modificación y distribución.
+Muy similar a la MIT, pero puede tener variantes (2, 3 o 4 cláusulas).
 
-Incluye una cláusula de protección frente a patentes.
+Muy permisiva, usada en sistemas como FreeBSD.
 
-BSD 3-Clause License
+5.Mozilla Public License (MPL)
 
-Permisiva, similar a MIT.
+Licencia de tipo copyleft moderado.
 
-Permite integración con software propietario.
+Permite mezclar código MPL con código propietario, siempre que los archivos MPL permanezcan abiertos.
 
-Requiere reconocimiento al autor original.
+🔒 Licencias de Software Propietario (Comercial)
+6.EULA (End User License Agreement)
 
-Mozilla Public License (MPL) 2.0
+Licencia estándar de software comercial (Windows, Photoshop, etc.).
 
-Copyleft débil.
+Restringe la copia, redistribución y modificación.
 
-Solo obliga a liberar el código modificado de los archivos originales bajo MPL.
+Es de uso no transferible y define claramente los términos de uso.
 
-Permite combinar con software propietario.
+7.Licencia OEM (Original Equipment Manufacturer)
 
-🔒 Licencias de software propietario / comercial
-Licencia EULA (End-User License Agreement)
+Vinculada a un hardware específico. Ejemplo: Windows preinstalado en un portátil.
 
-Contrato entre el usuario y el desarrollador.
+No se puede transferir legalmente a otro equipo.
 
-Es restrictiva: prohíbe copia, modificación o redistribución.
+8.Licencia Trial (de prueba)
 
-Usada en software comercial como Microsoft Office, Windows, etc.
+Permite usar el software durante un período limitado.
 
-Licencia Shareware
+Tras ese periodo, se requiere compra o activación.
 
-Permite uso gratuito por tiempo limitado o con funcionalidades reducidas.
+9.Licencia Freemium
 
-Requiere pago para uso completo o continuo.
+Parte del software es gratis, pero funciones avanzadas son de pago.
 
-Licencia Freemium
+Común en apps móviles y servicios online.
 
-Parte del software es gratuita, pero funciones avanzadas requieren pago.
+10.Licencia SaaS (Software as a Service)
 
-Usada en apps móviles y servicios en línea.
+No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).
 
-Licencia Trial o Demo
+Incluye actualizaciones y soporte mientras dure el contrato.
 
-Uso gratuito por un período de prueba.
-
-Luego requiere pago o activación.
-
-Licencia SaaS (Software as a Service)
-
-Licencia basada en suscripción (mensual o anual).
-
-El software se usa en la nube, sin instalación local.
-
-Ejemplo: Google Workspace, Adobe Creative Cloud.

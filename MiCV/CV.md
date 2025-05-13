@@ -4,6 +4,7 @@ sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna id volutpat lacus.
 
 Tel667860221/sebassavonea25@gmail.com/calle Getafe
+<img src="https://static9.depositphotos.com/1518767/1121/i/950/depositphotos_11213282-stock-photo-portrait-of-a-man-hiding.jpg" alt="Foto de Alejandro Ruiz" style="float: right; width: 150px; height: auto; margin-left: 20px;"/>
 
 ## EXPERIENCIA ##
 

@@ -1,8 +1,8 @@
 |*1.MIT License|
 |-------------|
-|Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
-|Solo exige incluir el aviso de copyright y la licencia original.|
-|Muy popular en proyectos web y bibliotecas.|
+|*Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
+|*Solo exige incluir el aviso de copyright y la licencia original.|
+|*Muy popular en proyectos web y bibliotecas.|
 
 |2.Licencia copyleft.|
 |--------------------|

@@ -1,11 +1,8 @@
 |1.MIT License|
 |-------------|
 |Muy permisiva. Permite uso, copia, modificación, fusión, distribución y sublicencia.|
-
 |Solo exige incluir el aviso de copyright y la licencia original.|
-
 |Muy popular en proyectos web y bibliotecas.|
-GNU General Public License (GPL)
 
 |2.Licencia copyleft.|
 |--------------------|

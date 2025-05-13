@@ -37,20 +37,16 @@
 |No se puede transferir legalmente a otro equipo.|
 
 |8.Licencia Trial (de prueba)|
+|----------------------------|
+|Permite usar el software durante un período limitado.|
+|Tras ese periodo, se requiere compra o activación.|
 
-Permite usar el software durante un período limitado.
+|9.Licencia Freemium|
+|-------------------|
+|Parte del software es gratis, pero funciones avanzadas son de pago.|
+|Común en apps móviles y servicios online.|
 
-Tras ese periodo, se requiere compra o activación.
-
-9.Licencia Freemium
-
-Parte del software es gratis, pero funciones avanzadas son de pago.
-
-Común en apps móviles y servicios online.
-
-10.Licencia SaaS (Software as a Service)
-
-No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).
-
-Incluye actualizaciones y soporte mientras dure el contrato.
+|10.Licencia SaaS (Software as a Service)|
+|No se instala localmente, se accede por suscripción (ej: Google Workspace, Microsoft 365).|
+|Incluye actualizaciones y soporte mientras dure el contrato.|
 
